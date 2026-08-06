@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Shreyashi Malla 👋</h1>
-<h3 align="center">B.Tech ECE Student | AI/ML Research | Full-Stack Development</h3>
+<h3 align="center">B.Tech ECS Student | AI/ML | Full-Stack Development</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/shreyashimalla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
