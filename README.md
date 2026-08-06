@@ -67,10 +67,6 @@ Research project (NISER NSIP 2026) evaluating post-hoc explainability methods ac
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ShreyashiMalla&theme=default&hide_border=true&include_all_commits=false&count_private=false" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyashiMalla&theme=default&hide_border=true&layout=compact" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ShreyashiMalla&theme=default&hide_border=true" />
