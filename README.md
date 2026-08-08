@@ -9,7 +9,7 @@
 
 ---
 
-### 🧭 About Me
+### 🧭 Profile
 
 I'm a final-year B.Tech student in Electronics and Computer Science Engineering at KIIT Deemed to be University, Bhubaneswar. My work sits at the intersection of **AI/ML research** and **full-stack development** — I enjoy building real-world applications as much as I enjoy digging into the theory behind them.
 
